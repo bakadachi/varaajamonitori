@@ -1,0 +1,67 @@
+
+(module SC70-6L (layer F.Cu) (tedit 5F7DC9F5)
+  (descr "<b>SC-70 Package</b>")
+  (fp_text reference REF** (at -1.694848 -0.094 900) (layer F.SilkS)
+    (effects (font (size 0.480012598425 0.480012598425) (thickness 0.015)))
+  )
+  (fp_text value SC70-6L (at 1.735915 -0.403765 900) (layer F.Fab)
+    (effects (font (size 0.480196850394 0.480196850394) (thickness 0.015)))
+  )
+  (fp_line (start -1.1 -0.5) (end 1.1 -0.5) (layer F.Fab) (width 0.2032))
+  (fp_line (start 1.1 0.5) (end -1.1 0.5) (layer F.Fab) (width 0.2032))
+  (fp_circle (center -0.65 0.2) (end -0.5 0.2) (layer F.SilkS) (width 0.0))
+  (fp_poly
+    (pts
+      (xy -0.800791 0.6)
+      (xy -0.5 0.6)
+      (xy -0.5 1.10109)
+      (xy -0.800791 1.10109)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.150022 0.6)
+      (xy 0.15 0.6)
+      (xy 0.15 1.10016)
+      (xy -0.150022 1.10016)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.500908 0.6)
+      (xy 0.8 0.6)
+      (xy 0.8 1.102)
+      (xy 0.500908 1.102)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.50078 -1.1)
+      (xy 0.8 -1.1)
+      (xy 0.8 -0.600936)
+      (xy 0.50078 -0.600936)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.150218 -1.1)
+      (xy 0.15 -1.1)
+      (xy 0.15 -0.600874)
+      (xy -0.150218 -0.600874)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.800459 -1.1)
+      (xy -0.5 -1.1)
+      (xy -0.5 -0.600344)
+      (xy -0.800459 -0.600344)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (pad 1 smd rect (at -0.65 0.85) (size 0.35 0.8) (layers F.Cu F.Mask F.Paste))
+  (pad 2 smd rect (at 0.0 0.85) (size 0.35 0.8) (layers F.Cu F.Mask F.Paste))
+  (pad 3 smd rect (at 0.65 0.85) (size 0.35 0.8) (layers F.Cu F.Mask F.Paste))
+  (pad 4 smd rect (at 0.65 -0.85) (size 0.35 0.8) (layers F.Cu F.Mask F.Paste))
+  (pad 5 smd rect (at 0.0 -0.85) (size 0.35 0.8) (layers F.Cu F.Mask F.Paste))
+  (pad 6 smd rect (at -0.65 -0.85) (size 0.35 0.8) (layers F.Cu F.Mask F.Paste))
+)
