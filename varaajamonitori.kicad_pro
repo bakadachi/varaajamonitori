@@ -433,7 +433,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 1.6,
+        "clearance": 0.6,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -444,7 +444,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.0,
-        "via_diameter": 2.5,
+        "via_diameter": 2.0,
         "via_drill": 0.8,
         "wire_width": 6
       },
@@ -593,15 +593,15 @@
         "pattern": "GNDREF"
       },
       {
-        "netclass": "Default",
+        "netclass": "AC",
         "pattern": "Net-(C1-Pad1)"
       },
       {
-        "netclass": "Default",
+        "netclass": "AC",
         "pattern": "Net-(C10-Pad1)"
       },
       {
-        "netclass": "Default",
+        "netclass": "AC",
         "pattern": "Net-(C11-Pad1)"
       },
       {
