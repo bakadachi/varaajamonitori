@@ -1,4 +1,4 @@
-23216938977629467
+23220404972496473
 4527
 FUSE_4527
 
@@ -95795,6 +95795,13 @@ Drill
 1
 1
 varaajamonitori
+LCD1602 RGB MOD
+
+
+0
+4
+1
+varaajamonitori
 RESCAXS50P200X100X45-8N
 
 
@@ -95842,6 +95849,13 @@ Drill
 
 0
 1
+1
+varaajamonitori2
+LCD1602 RGB MOD
+
+
+0
+4
 1
 varaajamonitori2
 RESCAXS50P200X100X45-8N
