@@ -1,0 +1,92 @@
+Plugin v0.0.1 running on KiCad 7.0.9 and Python 3.9.16 (main, Oct 13 2023, 05:50:11) [MSC v.1936 64 bit (AMD64)] on win32.
+Config file \\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb.hierpcb.json not found. Creating new one.
+Imported \\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb, with 83 footprints, 686 tracks, and 15 drawings.
+Footprint C5 is not on a sheet, skipping...
+ (+ PCB \\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb)
+Missing path: C5 (\\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb)
+PCB \\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb
+  /00000000: D5
+  /00000000: J1
+  /00000000: J4
+  /00000000: J5
+  /00000000: J6
+  /00000000: J7
+  /71918fbb: SW2
+  /6670e8bc: R23
+  /756b1b67: R4
+  /00000000: U7
+  /3204682f: R12
+  /bed25bbe: R5
+  /5158e5ef: U1
+  /69467883: D2
+  /00000000: R16
+  /92646c22: J9
+  /22a8ccbd: C9
+  /8921d161: R22
+  /ed109f11: R2
+  /f59a0767: Top2
+  /3140c13e: J2
+  /00000000: R20
+  /00000000: U6
+  /00000000: F1
+  /f02da5bb: D4
+  /45353f2e: J13
+  /e819d4f4: C16
+  /6a288891: JP2
+  /0def8ebe: L1
+  /2b400240: Bottom3
+  /268af134: SW4
+  /eba30362: J10
+  /00000000: T1
+  /baf9de31: R6
+  /3f129d61: R14
+  /e82ab7b5: SW7
+  /23b96bae: J14
+  /42f15322: SW5
+  /00000000: R17
+  /5e0dfd3d: Bottom2
+  /06608224: SW1
+  /2d196dbd: C13
+  /622a1fb5: R7
+  /2d7d4b99: R21
+  /ca135f9f: Q5
+  /6efdce12: U3
+  /00000000: R11
+  /281cb8ea: R24
+  /d8ea0c46: C8
+  /e62d719a: C2
+  /47868a84: J8
+  /26d1efb9: BZ1
+  /00000000: C7
+  /ac12ff9b: D3
+  /033423a4: SW6
+  /00000000: R18
+  /044c6839: SW9
+  /00000000: C4
+  /64fd25c8: Top1
+  /7efb07ed: R3
+  /7ae4bcea: C3
+  /dd94bbc2: J12
+  /00000000: C11
+  /ec425ea3: SW8
+  /0b8a5e1f: J11
+  /00000000: C10
+  /4e384398: SW3
+  /2c8c2363: R10
+  /00000000: R19
+  /00000000: R15
+  /6b0480bc: Mid1
+  /73ef25bc: R1
+  /00000000: J3
+  /00000000: Q3
+  /b3b02997: Bottom4
+  /66d0e7fc: D1
+  /00000000: C6
+  /00000000: Q4
+  /7eaf5bc7: Bottom1
+  /7cea10f4: C1
+  /6b545015: R9
+  /41875987: R13
+Selected for 0 : \\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb
+Missing path: C5 (\\wsl.localhost\Ubuntu\home\jani\Projects\varaajamonitori\varaajamonitori.kicad_pcb)
+Anchors  (J2): ['BZ1', 'Bottom1', 'Bottom2', 'Bottom3', 'Bottom4', 'C1', 'C10', 'C11', 'C13', 'C16', 'C2', 'C3', 'C4', 'C6', 'C7', 'C8', 'C9', 'D1', 'D2', 'D3', 'D4', 'D5', 'F1', 'J1', 'J10', 'J11', 'J12', 'J13', 'J14', 'J2', 'J3', 'J4', 'J5', 'J6', 'J7', 'J8', 'J9', 'JP2', 'L1', 'Mid1', 'Q3', 'Q4', 'Q5', 'R1', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18', 'R19', 'R2', 'R20', 'R21', 'R22', 'R23', 'R24', 'R3', 'R4', 'R5', 'R6', 'R7', 'R9', 'SW1', 'SW2', 'SW3', 'SW4', 'SW5', 'SW6', 'SW7', 'SW8', 'SW9', 'T1', 'Top1', 'Top2', 'U1', 'U3', 'U6', 'U7']

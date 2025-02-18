@@ -1,0 +1,36 @@
+Drill report for varaajamonitori.kicad_pcb
+Created on 17.1.2025 20.12.44
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'varaajamonitori-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,400mm  0,0157"  (18 holes)
+    T2  0,800mm  0,0315"  (2 holes)
+    T3  0,800mm  0,0315"  (50 holes)
+    T4  0,900mm  0,0354"  (4 holes)
+    T5  0,965mm  0,0380"  (2 holes)
+    T6  1,000mm  0,0394"  (39 holes)
+    T7  1,100mm  0,0433"  (6 holes)
+    T8  1,200mm  0,0472"  (31 holes)
+    T9  1,270mm  0,0500"  (3 holes)
+    T10  1,320mm  0,0520"  (2 holes)
+    T11  1,524mm  0,0600"  (8 holes)
+    T12  1,670mm  0,0657"  (4 holes)
+    T13  4,000mm  0,1575"  (10 holes)
+
+    Total plated holes count 179
+
+
+Drill file 'varaajamonitori-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
